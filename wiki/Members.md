@@ -2,7 +2,7 @@
 
 - Promotion
 - Logistics
-- Treasurer
+- Bendegúz Szkalka - Treasurer
 - Celeste Cuvelier - Secretary
 - Valyn Tyler - Chairman
 - Board Responsible
