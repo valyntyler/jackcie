@@ -1,6 +1,6 @@
 # Committee Members
 
-- Promotion
+- Promotion - Carl van Rossum
 - Logistics
 - Bendegúz Szkalka - Treasurer
 - Celeste Cuvelier - Secretary
