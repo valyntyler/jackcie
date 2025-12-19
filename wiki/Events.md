@@ -4,3 +4,5 @@
 
 - date: 30th of January, 2026
 - location: Sickhouse hopefully
+
+https://globalgamejam.org/important-dates
